@@ -1,5 +1,5 @@
 # Introduction-to-Git
-Data analysis with git
+Tools for Data analysis with git
 # Basic Git Commands
 .init(creates a new Git repository)
 .commit(to save changes to the repository)
